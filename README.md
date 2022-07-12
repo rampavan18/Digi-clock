@@ -1,2 +1,2 @@
 # Digi-clock
-Tinkercad link: https://www.tinkercad.com/things/9jiLNAS3Ayo-copy-of-copy-of-clock-with-date/editel?sharecode=O2FQzv2YAzJIbJnZCl_NE267V10zwbODROsMeDoVn1w&sharecode=O2FQzv2YAzJIbJnZCl_NE267V10zwbODROsMeDoVn1w
+Tinkercad link: https://www.tinkercad.com/things/jWoctXxIR7m-copy-of-copy-of-clock-with-date/editel?sharecode=m5hKA03kS_UwGvzugQv9M_SEMw0x-bvw2U0mbZ61QdE
